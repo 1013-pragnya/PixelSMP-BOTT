@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "PerzaanLive",
-    "password": "",
+    "username": "PixelSMPBOTT",
+    "password": "1234001",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
-    "version": "1.21.1"
+    "ip": "PiXelSMP-gRKb.aternos.me:42487",
+    "port": 42487,
+    "version": "1.26.1"
   },
   "position": {
     "enabled": true,
